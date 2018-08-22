@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/bugsnag/maze-runner
-  revision: a190904d1a263e41f40a6f009875592dc7119704
-  branch: thread-id-cocoa
+  revision: 02a83d3980f14f8c3eb81c3a39c8928d1499dbcb
+  branch: thread-id-assertion-fix
   specs:
     bugsnag-maze-runner (1.0.0)
       cucumber (~> 3.1.0)
